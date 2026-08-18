@@ -1,6 +1,6 @@
 # Hi, I'm Muhammad Siddique, PhD 👋
 
-## AI Researcher | Data Scientist | Financial Analytics Enthusiast
+## Economist | Interdisciplinary Researcher | Economics, Finance & Educational Computing | AI/ML & Data Science
 
 I develop machine learning solutions combining:
 
