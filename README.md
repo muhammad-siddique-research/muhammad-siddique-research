@@ -6,21 +6,21 @@ My work integrates economic theory, econometric methods, statistical modeling, a
 
 # Research Focus
 
-Applied Economics & Financial Analytics
-Quantitative Research & Econometric Modeling
-Big Data Analytics & Predictive Modeling
-Artificial Intelligence & Machine Learning
-Explainable AI & Data-Driven Decision Systems
-Featured Research Project
-Explainable AI for Corporate Bankruptcy Prediction
+-Applied Economics & Financial Analytics
+-Quantitative Research & Econometric Modeling
+-Big Data Analytics & Predictive Modeling
+-Artificial Intelligence & Machine Learning
+-Explainable AI & Data-Driven Decision Systems
+-Featured Research Project
+-Explainable AI for Corporate Bankruptcy Prediction
 
 # A machine learning framework for financial risk assessment integrating:
 
-✓ Econometric baseline modeling
-✓ Random Forest and XGBoost prediction models
-✓ SHAP-based explainability
-✓ Model evaluation and interpretation
-✓ Reproducible ML workflow
+-Econometric baseline modeling
+-Random Forest and XGBoost prediction models
+-SHAP-based explainability
+-Model evaluation and interpretation
+-Reproducible ML workflow
 
 # Repository: financial-risk-ai
 
