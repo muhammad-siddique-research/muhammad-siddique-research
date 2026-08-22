@@ -1,41 +1,33 @@
-# Hi, I'm Muhammad Siddique, PhD 👋
+# Economist | Quantitative Researcher | Computational Scientist
 
-## Economist | Applied Economics, Finance & Big Data Analytics | Quantitative & Data-Driven Research | AI/ML & Data Science
+Developing data-driven research solutions at the intersection of Applied Economics, Finance, Big Data Analytics, Artificial Intelligence, and Data Science.
 
-I develop machine learning solutions combining:
+My work integrates economic theory, econometric methods, statistical modeling, and machine learning approaches to develop reproducible analytical frameworks, predictive models, and evidence-based solutions for complex economic and financial challenges.
 
-- Artificial Intelligence
-- Explainable AI
-- Financial Analytics
-- Predictive Modelling
+# Research Focus
 
-## Featured Research Project
+Applied Economics & Financial Analytics
+Quantitative Research & Econometric Modeling
+Big Data Analytics & Predictive Modeling
+Artificial Intelligence & Machine Learning
+Explainable AI & Data-Driven Decision Systems
+Featured Research Project
+Explainable AI for Corporate Bankruptcy Prediction
 
-### Explainable AI for Corporate Bankruptcy Prediction
+# A machine learning framework for financial risk assessment integrating:
 
-A complete machine learning framework integrating:
+✓ Econometric baseline modeling
+✓ Random Forest and XGBoost prediction models
+✓ SHAP-based explainability
+✓ Model evaluation and interpretation
+✓ Reproducible ML workflow
 
-✓ Econometric baseline modelling  
-✓ Random Forest and XGBoost prediction  
-✓ SHAP explainability  
-✓ Reproducible ML pipeline  
+# Repository: financial-risk-ai
 
-Repository:
-[financial-risk-ai]([your-link](https://github.com/muhammad-siddique-research/muhammad-siddique-research))
+# Technical Expertise
 
-## Research Interests
+Economic & Financial Analytics | Quantitative Research | Python | AI/ML & Data Analytics
 
-- Explainable Artificial Intelligence
-- Financial Risk Analytics
-- Machine Learning Applications
-- Decision Support Systems
+# Research Philosophy
 
-## Technical Skills
-
-Python | Scikit-learn | XGBoost | SHAP | Pandas | Machine Learning
-
-## Connect
-
-LinkedIn:
-Google Scholar:
-Email:
+Building transparent, interpretable, and data-driven computational approaches that connect economic analysis with artificial intelligence to support research, decision-making, and innovation.
