@@ -1,40 +1,39 @@
-# Economist | Quantitative Researcher | Computational Scientist
+# Economist | Quantitative Researcher | AI/ML & Computational Scientist
 
-Developing data-driven research solutions at the intersection of Applied Economics, Finance, Big Data Analytics, Artificial Intelligence, and Data Science.
+Developing data-driven research solutions at the intersection of **Applied Economics, Finance, Big Data Analytics, Artificial Intelligence, and Data Science**.
 
-My work integrates economic theory, econometric methods, statistical modeling, and machine learning approaches to develop reproducible analytical frameworks, predictive models, and evidence-based solutions for complex economic and financial challenges.
+My work integrates **economic theory, quantitative methods, statistical modeling, and machine learning approaches** to develop reproducible analytical frameworks, predictive models, and evidence-based solutions for complex economic and financial challenges.
 
-# Research Focus
+## Research Focus
 
--Applied Economics & Financial Analytics
+- Applied Economics & Financial Analytics
+- Quantitative Research & Economic Modeling
+- Big Data Analytics & Predictive Modeling
+- Artificial Intelligence & Machine Learning
+- Explainable AI & Data-Driven Decision Systems
 
--Quantitative Research & Econometric Modeling
+## Featured Research Project
 
--Big Data Analytics & Predictive Modeling
+### Explainable AI for Corporate Bankruptcy Prediction
 
--Artificial Intelligence & Machine Learning
+A machine learning framework for financial risk assessment integrating:
 
--Explainable AI & Data-Driven Decision Systems
+- Econometric baseline modeling
+- Random Forest and XGBoost predictive models
+- SHAP-based model explainability
+- Model evaluation and interpretation
+- Reproducible machine learning workflows
 
--Featured Research Project
+**Repository:** `financial-risk-ai`
 
--Explainable AI for Corporate Bankruptcy Prediction
+## Technical Expertise
 
+- Economic & Financial Analytics
+- Quantitative Research
+- Python
+- AI/ML Methods
+- Data Analytics
 
-# A machine learning framework for financial risk assessment integrating:
+## Research Philosophy
 
--Econometric baseline modeling
--Random Forest and XGBoost prediction models
--SHAP-based explainability
--Model evaluation and interpretation
--Reproducible ML workflow
-
-# Repository: financial-risk-ai
-
-# Technical Expertise
-
-Economic & Financial Analytics | Quantitative Research | Python | AI/ML & Data Analytics
-
-# Research Philosophy
-
-Building transparent, interpretable, and data-driven computational approaches that connect economic analysis with artificial intelligence to support research, decision-making, and innovation.
+Building transparent, interpretable, and data-driven computational approaches that bridge **economic analysis, quantitative methods, and artificial intelligence** to support research, decision-making, and innovation.
