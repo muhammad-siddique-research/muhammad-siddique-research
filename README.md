@@ -42,6 +42,25 @@ The key contribution is **methodological triangulation**: classical regression p
 [**Project repository and methods →**](https://github.com/muhammad-siddique-research/higher-ed-flourishing-prediction-ml-xai) ·
 [**Higher education policy agenda →**](https://github.com/muhammad-siddique-research/higher-ed-flourishing-prediction-ml-xai/blob/main/docs/EDUCATION_POLICY_BRIEF.md)
 
+## Interactive Research & Policy Lab | Streamlit
+
+**[Explore the Student Thriving Streamlit Dashboard ↗](https://higher-ed-flourishing-prediction-ml-xai-cj3qpcffjve46ochqrdtn9.streamlit.app/)**
+
+An interactive companion to *The Science of Student Thriving: Econometrics and Explainable AI Analysis*, designed to make higher education research methods and their policy implications accessible to researchers, faculty, and institutional leaders.
+
+The application provides:
+
+- **Research and empirical evidence:** an overview of the original undergraduate study, its reported econometric findings, and clearly labeled aggregate research visualizations.
+- **ML and explainable AI literacy:** interpretation of model-comparison and SHAP figures, with transparent distinctions between real-study aggregate evidence and synthetic demonstrations.
+- **Student-experience exploration:** hypothetical psychosocial construct profiles to support discussion of belonging, integrity, spirituality, perceived fit, and tuition value.
+- **Responsible policy translation:** methodological limitations, privacy safeguards, and priorities for evaluating inclusive student-support initiatives.
+
+> **Research-use boundary:** This is an educational visualization and governance prototype—not a fitted individual-student prediction service, validated risk classifier, causal intervention calculator, or advising decision system. The app deployment URL is the address listed by the research repository; hosting availability is managed by Streamlit.
+
+[**Launch Streamlit app ↗**](https://higher-ed-flourishing-prediction-ml-xai-cj3qpcffjve46ochqrdtn9.streamlit.app/) ·
+[**View app source code ↗**](https://github.com/muhammad-siddique-research/higher-ed-flourishing-prediction-ml-xai/blob/main/app/streamlit_app.py) ·
+[**Explore reproducible methods ↗**](https://github.com/muhammad-siddique-research/higher-ed-flourishing-prediction-ml-xai)
+
 ## Research Agenda
 
 - **Student thriving and institutional effectiveness:** belonging, campus climate, trust, spirituality, psychosocial measurement, and equitable student success
