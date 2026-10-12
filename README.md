@@ -1,55 +1,64 @@
-# Interdisciplinary Researcher | Economist | AI/ML & Higher Education Analytics
+# Muhammad Siddique
+### Interdisciplinary Researcher | Economist | Education Data Science & Explainable AI
 
-**Econometric research · Explainable machine learning · Learning analytics · Evidence-informed institutional policy**
+**Econometrics · Predictive Machine Learning · Computational Social Science · Higher Education Policy**
 
-I work across **economics, computer science education, applied statistics, and artificial intelligence** to develop transparent analytical frameworks for human development, institutional effectiveness, and high-stakes decision-making.
+I develop **theory-grounded, reproducible research** at the intersection of economics, education, and artificial intelligence. My focus is to move responsibly from **statistical association** to **validated prediction**, and ultimately to **evidence-informed decisions** that improve institutional practice and student experiences.
 
-My research integrates **empirical econometrics, regularized regression, gradient-boosted trees, interpretable AI, and responsible data governance**, with an emphasis on distinguishing *descriptive evidence, out-of-sample prediction, and causal effects*.
+My research toolkit brings together **applied econometrics, HC3-robust inference, model diagnostics, regularized regression, XGBoost, LightGBM, Random Forest, Tree SHAP, and research-to-policy translation**.
 
-## Research Priorities
+## Featured Scholarship
 
-- **Higher Education & Student Success:** Undergraduate thriving, campus belonging, institutional trust, purpose, and equitable support
-- **Advanced Econometrics:** Multivariable regression, HC3 robust inference, diagnostics, sensitivity analysis, and reproducible research
-- **Predictive Analytics & Explainable AI:** ElasticNet, Random Forest, XGBoost, LightGBM, and Tree SHAP
-- **Economic & Financial Analytics:** Empirical economic modeling, financial risk, and decision support
-- **Evidence-to-Policy Translation:** Measurement validity, fairness, governance, and rigorous evaluation of educational interventions
+### [The Science of Student Thriving: Econometrics and Explainable AI Analysis](https://github.com/muhammad-siddique-research/higher-ed-flourishing-prediction-ml-xai)
 
-## Featured Research | Undergraduate Flourishing
+*Revised scholarly manuscript (working paper; not represented as published or peer reviewed)*
 
-### [Predicting and Explaining Undergraduate Thriving: Econometrics, ML & XAI](https://github.com/muhammad-siddique-research/higher-ed-flourishing-prediction-ml-xai)
+A single-institution undergraduate survey examined the association of **sense of community, institutional integrity, and spirituality** with the Thriving Quotient, integrating replicated econometric results and exploratory explainable machine learning.
 
-[![Research and synthetic-code tests](https://github.com/muhammad-siddique-research/higher-ed-flourishing-prediction-ml-xai/actions/workflows/ci.yml/badge.svg)](https://github.com/muhammad-siddique-research/higher-ed-flourishing-prediction-ml-xai/actions/workflows/ci.yml)
+| Study and methodological evidence | Finding |
+|---|---|
+| Original undergraduate survey | **N = 156** |
+| Complete-case primary regression and ML analysis | **n = 152** |
+| Replicated ordinary least squares model | **R² = .436**; adjusted **R² = .424** |
+| Community association (HC3 robust) | **B = .405**, 95% CI **[.267, .543]** |
+| Internal XGBoost prediction | Mean five-times-repeated 5-fold **RMSE = .379** |
+| Random Forest comparison | **RMSE = .380** — effectively comparable |
+| Explainable AI | Community received the largest mean absolute held-out Tree SHAP attribution |
 
-A research portfolio connecting a **real-world, single-institution undergraduate survey** to a documented econometric analysis, a verifiable summary-level statistical audit, and reproducible ML/XAI code.
+The key contribution is **methodological triangulation**: classical regression provides conditional associations and uncertainty; held-out ML tests predictive utility; Tree SHAP reveals the fitted model's feature reliance. **None of these analyses establishes causality or generalization to new institutions.**
 
-**Study evidence reported in the author-supplied research draft:** N = 156 survey participants; n = 152 complete-case regression records; in-sample OLS R² = .436. The underlying student-level dataset is **not available in the public repository**, so those reported estimates have not been independently re-estimated.
+<details>
+<summary><b>Research integrity and reproducibility</b></summary>
 
-**Computational contributions:** Conditional regression evidence; reconstructed partial R² and approximate VIF; code for HC3-robust OLS, influence diagnostics, bootstrap uncertainty, and nested specification tests; separate ElasticNet/Random Forest/XGBoost/LightGBM and Tree SHAP demonstration.
+- The numerical results above derive from **the original privately analyzed SPSS survey**, not the repository's separate synthetic demonstrations.
+- Seven model configurations were evaluated on **25 overlapping matched validation folds (5 folds × 5 repeats)**. Differences between XGBoost and Random Forest are too small to claim clear algorithmic superiority.
+- Tree SHAP was calculated on withheld cases during the first 5-fold repetition. Its feature attributions do **not** imply intervention effects.
+- **Participant-level student data and respondent-level SHAP graphics remain restricted**. Only aggregate results and methodological documentation are public.
+- Study authorization, scale psychometrics, coauthor approval, and journal-specific disclosures require confirmation before submission.
 
-**Interpretive safeguard:** ML and SHAP visualizations based on simulated data are explicitly labeled *SYNTHETIC*. They demonstrate implementation, not validated university-student predictions or causal interventions.
+</details>
 
-**Educational and policy relevance:** The study motivates further evaluation of belonging, peer mentoring, faculty–student engagement, institutional transparency, and culturally inclusive meaning-making—subject to student voice, privacy, and rigorous effectiveness evaluation.
+[**Empirical results and privacy-safe figures →**](https://github.com/muhammad-siddique-research/higher-ed-flourishing-prediction-ml-xai/blob/main/docs/REAL_DATA_VALIDATION.md) ·
+[**Project repository and methods →**](https://github.com/muhammad-siddique-research/higher-ed-flourishing-prediction-ml-xai) ·
+[**Higher education policy agenda →**](https://github.com/muhammad-siddique-research/higher-ed-flourishing-prediction-ml-xai/blob/main/docs/EDUCATION_POLICY_BRIEF.md)
 
-[**Project README and study figures →**](https://github.com/muhammad-siddique-research/higher-ed-flourishing-prediction-ml-xai) ·
-[**Reported empirical analysis →**](https://github.com/muhammad-siddique-research/higher-ed-flourishing-prediction-ml-xai/blob/main/docs/EMPIRICAL_EVIDENCE.md) ·
-[**Education policy brief →**](https://github.com/muhammad-siddique-research/higher-ed-flourishing-prediction-ml-xai/blob/main/docs/EDUCATION_POLICY_BRIEF.md)
+## Research Agenda
 
-## Additional Open Research Projects
+- **Student thriving and institutional effectiveness:** belonging, campus climate, trust, spirituality, psychosocial measurement, and equitable student success
+- **Econometric identification and robustness:** linear modeling, HC3 robust errors, influence diagnostics, specification checks, uncertainty and sensitivity analysis
+- **Explainable predictive modeling:** regularization, tree ensembles, repeated cross-validation, predictive stability, and Tree SHAP interpretation
+- **Educational policy and evaluation:** student-centered mentoring, faculty–student engagement, inclusive support design, and prospective intervention evaluation
+- **Economic and financial analytics:** quantitative modeling, economic decision support, and computational risk analysis
 
-**[E-Commerce Purchase Intention Prediction](https://github.com/muhammad-siddique-research/ecommerce-purchase-prediction-ml)**
+## Additional Research Repositories
 
-Reproducible classification of online purchasing behavior using decision trees, k-nearest neighbors, Gaussian Naive Bayes, a baseline model, cross-validation, and performance diagnostics.
+- **[E-Commerce Purchase Prediction](https://github.com/muhammad-siddique-research/ecommerce-purchase-prediction-ml)** — classification and interpretable consumer-behavior analytics
+- **[Financial Risk and Explainable AI](https://github.com/muhammad-siddique-research/financial-risk-ai)** — computational financial-risk modeling
 
-**[Explainable AI for Corporate Bankruptcy Prediction](https://github.com/muhammad-siddique-research/financial-risk-ai)**
+## Technical Methods
 
-Financial risk modeling and interpretable machine learning, connecting econometric reasoning with classification, ensemble modeling, and responsible decision support.
+**Python · statsmodels · pandas · NumPy · SciPy · scikit-learn · XGBoost · LightGBM · SHAP · Streamlit · GitHub Actions · Stata · IBM SPSS Statistics**
 
-## Research and Technical Toolkit
+My research emphasizes **transparent estimation, defensible uncertainty, reproducible workflows, and educationally meaningful interpretation**—not prediction without governance or policy claims without an evaluation design.
 
-**Python · pandas · NumPy · SciPy · statsmodels · scikit-learn · XGBoost · LightGBM · SHAP · GitHub Actions · Streamlit · Stata · SPSS**
-
-Methodological emphasis: *reproducibility, measurement quality, uncertainty, ethical data use, theory-grounded modeling, and domain-appropriate interpretation.*
-
-## Research Philosophy
-
-**Policy-relevant research should be computationally rigorous and educationally meaningful.** My goal is to advance reproducible methods that connect institutional evidence to student-centered improvement—without confusing correlation with causation, algorithmic attribution with explanation of human behavior, or a functioning prototype with a validated policy instrument.
+> *Rigorous computation matters most when its assumptions are visible, its limitations are understood, and its insights can be tested in educational practice.*
