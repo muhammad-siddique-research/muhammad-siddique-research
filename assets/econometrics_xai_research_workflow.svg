@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 284" width="1040" height="284" role="img" aria-labelledby="t d">
+<title id="t">Interdisciplinary research workflow from theory to statistical inference and explainable AI</title>
+<desc id="d">Five connected phases: theory and research design; temporal data engineering; econometric modeling and robust inference; predictive machine learning with grouped validation; and explainability, calibration and transfer. The diagram distinguishes prediction and explanation from causal identification.</desc>
+<rect x="0" y="0" width="1040" height="284" rx="18" fill="#f8fafc"/>
+<rect x="11" y="10" width="1018" height="264" rx="13" fill="#ffffff" stroke="#dfe7ed"/>
+<text x="37" y="46" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#182f48">Research workflow | From theory to transparent evidence</text>
+<text x="37" y="70" font-family="Arial,sans-serif" font-size="14" fill="#5c7086">Econometrics · Educational Data Science · Predictive Machine Learning · Explainable AI</text>
+<rect x="35" y="102" width="190" height="112" rx="12" fill="#eef5f9" stroke="#c5dae8"/>
+<text x="49" y="132" font-family="Arial" font-weight="700" font-size="14" fill="#176c79">01</text>
+<text x="49" y="153" font-family="Arial" font-weight="700" font-size="13" fill="#20364e">THEORY + DESIGN</text>
+<text x="49" y="177" font-family="Arial" font-size="13" fill="#4d6073">Research questions</text>
+<text x="49" y="195" font-family="Arial" font-size="12" fill="#4d6073">Constructs & units</text>
+<path d="M 225 155 l 10 0 m -4 -4 l 4 4 l -4 4" fill="none" stroke="#7392a3" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="237" y="102" width="190" height="112" rx="12" fill="#ecf7f4" stroke="#c4e1dc"/>
+<text x="251" y="132" font-family="Arial" font-weight="700" font-size="14" fill="#176c79">02</text>
+<text x="251" y="153" font-family="Arial" font-weight="700" font-size="13" fill="#20364e">DATA ENGINEERING</text>
+<text x="251" y="177" font-family="Arial" font-size="13" fill="#4d6073">Provenance + timing</text>
+<text x="251" y="195" font-family="Arial" font-size="12" fill="#4d6073">Missingness & privacy</text>
+<path d="M 427 155 l 10 0 m -4 -4 l 4 4 l -4 4" fill="none" stroke="#7392a3" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="439" y="102" width="190" height="112" rx="12" fill="#eef5f9" stroke="#c5dae8"/>
+<text x="453" y="132" font-family="Arial" font-weight="700" font-size="14" fill="#176c79">03</text>
+<text x="453" y="153" font-family="Arial" font-weight="700" font-size="13" fill="#20364e">ECONOMETRICS</text>
+<text x="453" y="177" font-family="Arial" font-size="13" fill="#4d6073">Robust inference</text>
+<text x="453" y="195" font-family="Arial" font-size="12" fill="#4d6073">HC3 & sensitivity</text>
+<path d="M 629 155 l 10 0 m -4 -4 l 4 4 l -4 4" fill="none" stroke="#7392a3" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="641" y="102" width="190" height="112" rx="12" fill="#ecf7f4" stroke="#c4e1dc"/>
+<text x="655" y="132" font-family="Arial" font-weight="700" font-size="14" fill="#176c79">04</text>
+<text x="655" y="153" font-family="Arial" font-weight="700" font-size="13" fill="#20364e">PREDICTIVE ML</text>
+<text x="655" y="177" font-family="Arial" font-size="13" fill="#4d6073">Grouped validation</text>
+<text x="655" y="195" font-family="Arial" font-size="12" fill="#4d6073">XGBoost + baselines</text>
+<path d="M 831 155 l 10 0 m -4 -4 l 4 4 l -4 4" fill="none" stroke="#7392a3" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="843" y="102" width="190" height="112" rx="12" fill="#eef5f9" stroke="#c5dae8"/>
+<text x="857" y="132" font-family="Arial" font-weight="700" font-size="14" fill="#176c79">05</text>
+<text x="857" y="153" font-family="Arial" font-weight="700" font-size="13" fill="#20364e">EXPLAINABILITY</text>
+<text x="857" y="177" font-family="Arial" font-size="13" fill="#4d6073">SHAP + calibration</text>
+<text x="857" y="195" font-family="Arial" font-size="12" fill="#4d6073">Limits & transfer</text>
+<line x1="36" y1="232" x2="1003" y2="232" stroke="#e0e8ee"/>
+<text x="39" y="256" font-family="Arial" font-size="14" fill="#3a536b">Evidence standard: statistical association ≠ prediction ≠ model attribution ≠ causal effect.</text>
+</svg>
