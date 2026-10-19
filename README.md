@@ -61,6 +61,16 @@ The application provides:
 [**View app source code ↗**](https://github.com/muhammad-siddique-research/higher-ed-flourishing-prediction-ml-xai/blob/main/app/streamlit_app.py) ·
 [**Explore reproducible methods ↗**](https://github.com/muhammad-siddique-research/higher-ed-flourishing-prediction-ml-xai)
 
+## Research in Progress: Explainable AI for Early Academic Risk (OULAD)
+
+**Educational Data Science · Robust Econometrics · XGBoost · SHAP · Responsible Learning Analytics**
+
+Building a transparent early academic-risk modeling and reproducibility project using the historical **Open University Learning Analytics Dataset (OULAD)**. The design contrasts interpretable statistical models with XGBoost, evaluates held-out classification and probability calibration, and examines the stability of SHAP explanations and subgroup-level performance.
+
+**Research status:** the authentic dataset and official data descriptor are verified; the Python pipeline has passed synthetic-data unit and integration tests. **Real OULAD model results and the dedicated public repository are not yet available.** No deployed robotic assistant or U.S. campus AI intervention is evaluated in this research.
+
+**Original sources:** [Open University OULAD page](https://research.stem.open.ac.uk/ouanalyse/dataset/) · [Peer-reviewed data descriptor](https://doi.org/10.1038/sdata.2017.171) · [UCI source data](https://doi.org/10.24432/C5KK69) · [Original Figshare deposit](https://doi.org/10.6084/m9.figshare.5081998) (CC BY 4.0).
+
 ## Research Agenda
 
 - **Student thriving and institutional effectiveness:** belonging, campus climate, trust, spirituality, psychosocial measurement, and equitable student success
