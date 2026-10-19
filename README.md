@@ -1,93 +1,133 @@
-# Muhammad Siddique
-### Interdisciplinary Researcher | Economist | Education Data Science & Explainable AI
+<div align="center">
 
-**Econometrics · Predictive Machine Learning · Computational Social Science · Higher Education Policy**
+# Muhammad Siddique, Ph.D.
 
-I develop **theory-grounded, reproducible research** at the intersection of economics, education, and artificial intelligence. My focus is to move responsibly from **statistical association** to **validated prediction**, and ultimately to **evidence-informed decisions** that improve institutional practice and student experiences.
+### Applied Economist · Interdisciplinary Quantitative Researcher · Educational Data Scientist
 
-My research toolkit brings together **applied econometrics, HC3-robust inference, model diagnostics, regularized regression, XGBoost, LightGBM, Random Forest, Tree SHAP, and research-to-policy translation**.
+**Econometrics | Statistical Inference | Machine Learning | Explainable AI | Higher Education Research**
 
-## Featured Scholarship
+[**Google Scholar**](https://scholar.google.com/citations?user=0Dthp5IAAAAJ) · [**LinkedIn**](https://www.linkedin.com/in/muhammad-siddique-phd-72954785/) · [**Featured Research**](#selected-research-projects) · [**Methodological Expertise**](#research-methods--analytical-specializations)
 
-### [The Science of Student Thriving: Econometrics and Explainable AI Analysis](https://github.com/muhammad-siddique-research/higher-ed-flourishing-prediction-ml-xai)
+</div>
 
-*Revised scholarly manuscript (working paper; not represented as published or peer reviewed)*
+---
 
-A single-institution undergraduate survey examined the association of **sense of community, institutional integrity, and spirituality** with the Thriving Quotient, integrating replicated econometric results and exploratory explainable machine learning.
+## Research profile
 
-| Study and methodological evidence | Finding |
-|---|---|
-| Original undergraduate survey | **N = 156** |
-| Complete-case primary regression and ML analysis | **n = 152** |
-| Replicated ordinary least squares model | **R² = .436**; adjusted **R² = .424** |
-| Community association (HC3 robust) | **B = .405**, 95% CI **[.267, .543]** |
-| Internal XGBoost prediction | Mean five-times-repeated 5-fold **RMSE = .379** |
-| Random Forest comparison | **RMSE = .380** — effectively comparable |
-| Explainable AI | Community received the largest mean absolute held-out Tree SHAP attribution |
+I investigate empirical questions at the intersection of **Applied Economics, Computational Social Science, Educational Data Science, and Evidence-Informed Policy**. My research integrates theoretical reasoning with rigorous **Econometric Modeling**, reproducible statistical analysis, and **Explainable Machine Learning (XAI)** to distinguish what the data show, what models can predict, and what would require a credible causal research design.
 
-The key contribution is **methodological triangulation**: classical regression provides conditional associations and uncertainty; held-out ML tests predictive utility; Tree SHAP reveals the fitted model's feature reliance. **None of these analyses establishes causality or generalization to new institutions.**
+I hold a **Ph.D. in Economics (conferred January 2026)** and am completing an **Ed.D. with a Computer Science specialization at Judson University (anticipated December 2026)**. My research experience includes an externally funded visiting doctoral fellowship at **Indiana University Bloomington**, peer-reviewed work in **International Trade, Finance, and Environmental and Energy Economics**, university teaching, curriculum development, and undergraduate/graduate research mentorship.
 
-<details>
-<summary><b>Research integrity and reproducibility</b></summary>
+**Research principle:** Statistical significance is not predictive validity; predictive attribution is not causal identification. Credible evidence demands careful measurement, transparent assumptions, realistic validation, and substantive interpretation.
 
-- The numerical results above derive from **the original privately analyzed SPSS survey**, not the repository's separate synthetic demonstrations.
-- Seven model configurations were evaluated on **25 overlapping matched validation folds (5 folds × 5 repeats)**. Differences between XGBoost and Random Forest are too small to claim clear algorithmic superiority.
-- Tree SHAP was calculated on withheld cases during the first 5-fold repetition. Its feature attributions do **not** imply intervention effects.
-- **Participant-level student data and respondent-level SHAP graphics remain restricted**. Only aggregate results and methodological documentation are public.
-- Study authorization, scale psychometrics, coauthor approval, and journal-specific disclosures require confirmation before submission.
+![Research workflow connecting theoretical research design, data governance, robust econometrics, predictive machine learning and interpretable AI](assets/econometrics_xai_research_workflow.svg)
 
-</details>
+## Selected research projects
 
-[**Empirical results and privacy-safe figures →**](https://github.com/muhammad-siddique-research/higher-ed-flourishing-prediction-ml-xai/blob/main/docs/REAL_DATA_VALIDATION.md) ·
-[**Project repository and methods →**](https://github.com/muhammad-siddique-research/higher-ed-flourishing-prediction-ml-xai) ·
-[**Higher education policy agenda →**](https://github.com/muhammad-siddique-research/higher-ed-flourishing-prediction-ml-xai/blob/main/docs/EDUCATION_POLICY_BRIEF.md)
+### 01 · Explainable AI for Early Academic Risk
 
-## Interactive Research & Policy Lab | Streamlit
+**Historical UK higher education | OULAD | Robust Econometrics · XGBoost · SHAP**
 
-**[Explore the Student Thriving Streamlit Dashboard ↗](https://higher-ed-flourishing-prediction-ml-xai-cj3qpcffjve46ochqrdtn9.streamlit.app/)**
+*Original secondary-data analysis; extended scholarly working manuscript under pre-submission review. Not yet peer-reviewed or published.*
 
-An interactive companion to *The Science of Student Thriving: Econometrics and Explainable AI Analysis*, designed to make higher education research methods and their policy implications accessible to researchers, faculty, and institutional leaders.
+A time-bounded Learning Analytics study of subsequent **Fail/Withdrawn** outcomes using the historic **Open University Learning Analytics Dataset (OULAD)**. The research compares interpretable statistical baselines and tree ensembles, while testing how prediction reliability changes across course presentations and unseen modules.
 
-The application provides:
+| Study component | Verified empirical evidence |
+|:---|:---|
+| Eligible analytic cohort | **24,835 distinct learners** |
+| Primary test sample | **7,239 learners; six held-out course presentations** |
+| Logistic Regression | Average precision **0.663** · ROC-AUC **0.717** · Brier **0.209** |
+| XGBoost | Average precision **0.685** · ROC-AUC **0.724** · Brier **0.204** |
+| Econometric inference | HC3-robust and course-presentation-clustered uncertainty for conditional associations |
+| Generalization | Time-based validation, unseen-module tests, feature ablation and cutoff sensitivity |
 
-- **Research and empirical evidence:** an overview of the original undergraduate study, its reported econometric findings, and clearly labeled aggregate research visualizations.
-- **ML and explainable AI literacy:** interpretation of model-comparison and SHAP figures, with transparent distinctions between real-study aggregate evidence and synthetic demonstrations.
-- **Student-experience exploration:** hypothetical psychosocial construct profiles to support discussion of belonging, integrity, spirituality, perceived fit, and tuition value.
-- **Responsible policy translation:** methodological limitations, privacy safeguards, and priorities for evaluating inclusive student-support initiatives.
+![Authentic OULAD model comparison: average precision and Brier score for a prevalence baseline, Logistic Regression, Random Forest and XGBoost](assets/oulad_holdout_model_comparison.svg)
 
-> **Research-use boundary:** This is an educational visualization and governance prototype—not a fitted individual-student prediction service, validated risk classifier, causal intervention calculator, or advising decision system. The app deployment URL is the address listed by the research repository; hosting availability is managed by Streamlit.
+**Research interpretation.** XGBoost exhibits a **modest primary-split ranking advantage**, but performance is context-sensitive. In leave-one-module-out checks, its Brier score was worse than Logistic Regression on **five of seven modules**. The substantive contribution concerns *transportability, calibration, and explainability under changing learning environments*, rather than a claim that algorithmic complexity always improves student-risk assessment.
 
-[**Launch Streamlit app ↗**](https://higher-ed-flourishing-prediction-ml-xai-cj3qpcffjve46ochqrdtn9.streamlit.app/) ·
-[**View app source code ↗**](https://github.com/muhammad-siddique-research/higher-ed-flourishing-prediction-ml-xai/blob/main/app/streamlit_app.py) ·
-[**Explore reproducible methods ↗**](https://github.com/muhammad-siddique-research/higher-ed-flourishing-prediction-ml-xai)
+- **Data attribution:** [Open University OULAD](https://research.stem.open.ac.uk/ouanalyse/dataset/) · [UCI dataset DOI](https://doi.org/10.24432/C5KK69) · [Original scholarly data descriptor](https://doi.org/10.1038/sdata.2017.171).
+- **Reproducibility:** Dedicated research repository and detailed analysis package are maintained **privately pending independent review**; access can be discussed for scholarly collaboration.
+- **Inference boundary:** Historical UK observational records; **no live AI feedback, robotic assistant, U.S. campus deployment, or causal intervention** was evaluated.
 
-## Research in Progress: Explainable AI for Early Academic Risk (OULAD)
+### 02 · The Science of Student Thriving
 
-**Educational Data Science · Robust Econometrics · XGBoost · SHAP · Responsible Learning Analytics**
+**U.S. Higher Education | Psychosocial Measurement · Robust Regression · Predictive ML · Tree SHAP**
 
-Building a transparent early academic-risk modeling and reproducibility project using the historical **Open University Learning Analytics Dataset (OULAD)**. The design contrasts interpretable statistical models with XGBoost, evaluates held-out classification and probability calibration, and examines the stability of SHAP explanations and subgroup-level performance.
+[**Explore the public research repository →**](https://github.com/muhammad-siddique-research/higher-ed-flourishing-prediction-ml-xai) · [**Read real-data validation notes →**](https://github.com/muhammad-siddique-research/higher-ed-flourishing-prediction-ml-xai/blob/main/docs/REAL_DATA_VALIDATION.md)
 
-**Empirical working-paper results (historical UK data; not peer-reviewed):** 24,835 eligible learners; 7,239 held out across six complete course presentations. XGBoost achieved **average precision 0.685, ROC-AUC 0.724, and Brier score 0.204**, versus regularized Logistic Regression (**0.663, 0.717, and 0.209**). **Important limitation:** On unseen modules, XGBoost's Brier score was worse on five of seven module-level comparisons. The analysis uses robust econometric associations, cross-course validation and held-out SHAP; it does not estimate causal effects, deploy a robot, or study U.S. campuses. A manuscript and replication package are under pre-submission review; the dedicated repository is currently private.
+*Collaborative scholarly working manuscript; not represented as published or externally validated.*
 
-**Original sources:** [Open University OULAD page](https://research.stem.open.ac.uk/ouanalyse/dataset/) · [Peer-reviewed data descriptor](https://doi.org/10.1038/sdata.2017.171) · [UCI source data](https://doi.org/10.24432/C5KK69) · [Original Figshare deposit](https://doi.org/10.6084/m9.figshare.5081998) (CC BY 4.0).
+A single-institution undergraduate survey examines how **Sense of Community, Institutional Integrity, and Spirituality** relate to student thriving. The study integrates theory-based regression and sensitivity diagnostics with internal predictive benchmarking and held-out explanations.
 
-## Research Agenda
+| Analytical layer | Reported finding or research safeguard |
+|:---|:---|
+| Original survey | **156 respondents; 152 complete cases** |
+| Regression fit | **R² = 0.436; adjusted R² = 0.424** |
+| Community association | **B = 0.405; HC3 95% CI [0.267, 0.543]** |
+| Predictive validation | **Five repeats of 5-fold CV**, seven model configurations |
+| XGBoost vs Random Forest | RMSE **0.379** vs **0.380** — practically indistinguishable |
+| Model interpretation | Mean absolute held-out SHAP; **not** an estimate of intervention impact |
 
-- **Student thriving and institutional effectiveness:** belonging, campus climate, trust, spirituality, psychosocial measurement, and equitable student success
-- **Econometric identification and robustness:** linear modeling, HC3 robust errors, influence diagnostics, specification checks, uncertainty and sensitivity analysis
-- **Explainable predictive modeling:** regularization, tree ensembles, repeated cross-validation, predictive stability, and Tree SHAP interpretation
-- **Educational policy and evaluation:** student-centered mentoring, faculty–student engagement, inclusive support design, and prospective intervention evaluation
-- **Economic and financial analytics:** quantitative modeling, economic decision support, and computational risk analysis
+**Explainable AI — aggregate held-out Tree SHAP**
 
-## Additional Research Repositories
+![Real undergraduate survey: aggregate out-of-fold Tree SHAP feature attributions for sense of community, spirituality and institutional integrity](https://raw.githubusercontent.com/muhammad-siddique-research/higher-ed-flourishing-prediction-ml-xai/main/docs/figures/REAL_STUDY_aggregate_SHAP.svg)
 
-- **[E-Commerce Purchase Prediction](https://github.com/muhammad-siddique-research/ecommerce-purchase-prediction-ml)** — classification and interpretable consumer-behavior analytics
-- **[Financial Risk and Explainable AI](https://github.com/muhammad-siddique-research/financial-risk-ai)** — computational financial-risk modeling
+*Aggregate attribution magnitude in the reported internal study: Sense of Community (0.258), Spirituality (0.130), Institutional Integrity (0.051). The original individual-level survey remains restricted; SHAP measures reliance of the fitted predictor, **not causal importance**.*
 
-## Technical Methods
+**Predictive benchmark — internally held-out error**
 
-**Python · statsmodels · pandas · NumPy · SciPy · scikit-learn · XGBoost · LightGBM · SHAP · Streamlit · GitHub Actions · Stata · IBM SPSS Statistics**
+![Real undergraduate survey: RMSE comparison from 25 overlapping held-out folds across machine learning and statistical models](https://raw.githubusercontent.com/muhammad-siddique-research/higher-ed-flourishing-prediction-ml-xai/main/docs/figures/REAL_STUDY_model_errors.svg)
 
-My research emphasizes **transparent estimation, defensible uncertainty, reproducible workflows, and educationally meaningful interpretation**—not prediction without governance or policy claims without an evaluation design.
+[**Interactive Research & Policy Lab (Streamlit) →**](https://higher-ed-flourishing-prediction-ml-xai-cj3qpcffjve46ochqrdtn9.streamlit.app/) · [**Model interpretation and validation protocol →**](https://github.com/muhammad-siddique-research/higher-ed-flourishing-prediction-ml-xai/blob/main/docs/REAL_DATA_VALIDATION.md)
 
-> *Rigorous computation matters most when its assumptions are visible, its limitations are understood, and its insights can be tested in educational practice.*
+*The Streamlit application is a research-communication and methodological-literacy prototype—not a validated personal risk-assessment or advising system. Survey findings are institution-specific; authorship and research-governance requirements remain subject to confirmation for journal submission.*
+
+### 03 · Additional computational research
+
+| Project | Research contribution | Evidence status |
+|:---|:---|:---|
+| [**Financial Risk AI: Corporate Bankruptcy Prediction**](https://github.com/muhammad-siddique-research/financial-risk-ai) | Financial-risk classification, model diagnostics and transparent ML-based decision support | Reproducible computational research project |
+| [**Systemic Causal GNN: Macroprudential Stress Testing**](https://github.com/muhammad-siddique-research/systemic-causal-gnn) | Graph-network modeling and Double Machine Learning framework for financial contagion scenarios | **Research-stage/simulation framework; causal validation pending** |
+| [**E-Commerce Purchase Intention Prediction**](https://github.com/muhammad-siddique-research/ecommerce-purchase-prediction-ml) | UCI dataset classification, held-out model comparisons, ROC/precision–recall analysis and timing-sensitivity checks | Executed academic benchmarking project |
+| [**Peer-reviewed Applied Economics scholarship**](https://scholar.google.com/citations?user=0Dthp5IAAAAJ) | International Trade, competitiveness, Environmental and Energy Economics, financial and policy questions | Published research; bibliographic record on Google Scholar |
+
+## Research methods & analytical specializations
+
+| Research domain | Methods and methodological priorities |
+|:---|:---|
+| **Econometric Inference** | OLS; Logistic Regression; heteroskedasticity-consistent **HC3** uncertainty; clustered standard errors; panel-data analysis; sensitivity, influence and specification diagnostics |
+| **Applied Economic Modeling** | Gravity Models; ARDL / Nonlinear ARDL; Real Effective Exchange Rate; Revealed Comparative Advantage; transition probabilities and survival analysis |
+| **Predictive Machine Learning** | Regularized Regression; Random Forest; **XGBoost**; LightGBM; grouped and temporal holdouts; leakage-aware preprocessing; hyperparameter tuning |
+| **Explainable AI and Assessment** | **Tree SHAP**, aggregate attribution, explanation stability, model calibration, Brier score, average precision, ROC-AUC, RMSE and subgroup diagnostics |
+| **Educational Data Science** | Longitudinal course activity, student-success and thriving measurement, survey analytics, institutional evidence and responsible learning-support applications |
+| **Research Reproducibility** | Python, pandas, NumPy, statsmodels, scikit-learn, SQL, Stata, IBM SPSS Statistics, Jupyter, GitHub Actions and reproducible documentation |
+
+### Methodological approach
+
+The central theme across my portfolio is **triangulation without conflation**:
+
+1. **Econometrics** estimates conditional relationships and quantifies inferential uncertainty, with assumptions made explicit.
+2. **Machine Learning** assesses out-of-sample predictive utility against transparent baselines under realistic validation schemes.
+3. **Explainable AI** summarizes how fitted models use predictors; **SHAP is not a causal identification strategy**.
+4. **Policy translation** considers measurement validity, data privacy, distribution shift, subgroup reliability and the additional evidence required before intervention.
+
+## Teaching, research mentorship & academic background
+
+- **Ph.D., Economics** — National College of Business Administration & Economics, Lahore, Pakistan (January 2026).
+- **Ed.D., Computer Science specialization** — Judson University, Illinois (anticipated December 2026); research interests include AI-enhanced learning and Quantitative Educational Research.
+- **Visiting Doctoral Research Fellow** — Indiana University Bloomington (2021–2022); longitudinal empirical research in International Trade.
+- **University instruction and mentorship** — Economics, Applied Quantitative Methods, research design, curriculum development, and student-led empirical projects.
+
+**Academic interests:** Postdoctoral Research · Educational Data Science · Institutional Research · Econometrics · Quantitative Policy Evaluation · AI/ML for Education and Social Science.
+
+---
+
+<div align="center">
+
+### Open methods. Transparent uncertainty. Evidence that can be challenged and reproduced.
+
+[**Scholarship**](https://scholar.google.com/citations?user=0Dthp5IAAAAJ) · [**Research repositories**](https://github.com/muhammad-siddique-research?tab=repositories) · [**Professional profile**](https://www.linkedin.com/in/muhammad-siddique-phd-72954785/)
+
+*Research status, datasets, and methodological limitations are stated alongside each project; no working manuscript is presented here as an accepted publication.*
+
+</div>
