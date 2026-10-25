@@ -4,7 +4,7 @@
 
 ### Applied Economist · Interdisciplinary Quantitative Researcher · Educational Data Scientist
 
-**Econometrics | Applied & Health Economics | Computational Research | Graph Machine Learning | Explainable AI | Higher Education Research**
+** Applied Econometrics | Applied Computational Research | Machine Learning & Explainable AI | Higher Education Research**
 
 [**Google Scholar**](https://scholar.google.com/citations?user=0Dthp5IAAAAJ) · [**LinkedIn**](https://www.linkedin.com/in/muhammad-siddique-phd-72954785/) · [**Featured Research**](#selected-research-projects) · [**Methodological Expertise**](#research-methods--analytical-specializations)
 
