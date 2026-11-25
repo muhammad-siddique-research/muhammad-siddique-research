@@ -46,7 +46,7 @@ A time-bounded Learning Analytics study of subsequent **Fail/Withdrawn** outcome
 **Research interpretation.** XGBoost exhibits a **modest primary-split ranking advantage**, but performance is context-sensitive. In leave-one-module-out checks, its Brier score was worse than Logistic Regression on **five of seven modules**. The substantive contribution concerns *transportability, calibration, and explainability under changing learning environments*, rather than a claim that algorithmic complexity always improves student-risk assessment.
 
 - **Data attribution:** [Open University OULAD](https://research.stem.open.ac.uk/ouanalyse/dataset/) · [UCI dataset DOI](https://doi.org/10.24432/C5KK69) · [Original scholarly data descriptor](https://doi.org/10.1038/sdata.2017.171).
-- **Reproducibility:** Dedicated research repository and detailed analysis package are maintained **privately pending independent review**; access can be discussed for scholarly collaboration.
+- **Reproducibility:** Dedicated research repository and detailed analysis package are maintained; access can be discussed for scholarly collaboration.
 - **Inference boundary:** Historical UK observational records; **no live AI feedback, robotic assistant, U.S. campus deployment, or causal intervention** was evaluated.
 
 ### 02 · The Science of Student Thriving
@@ -88,8 +88,8 @@ A single-institution undergraduate survey examines how **Sense of Community, Ins
 |:---|:---|:---|
 | [**Financial Risk AI: Corporate Bankruptcy Prediction**](https://github.com/muhammad-siddique-research/financial-risk-ai) | Financial-risk classification, model diagnostics and transparent ML-based decision support | Reproducible computational research project |
 | [**Network Fragility Under Stress: Financial Contagion, GAT–GRU and Double Machine Learning**](https://github.com/muhammad-siddique-research/systemic-causal-gnn) | Convergence-checked Eisenberg–Noe clearing, paired policy simulations, independent-network GNN and Logistic/Forest/Boosted ML validation, and separately cross-fitted DML | **Executed synthetic benchmark with published tests, figures and uncertainty; no observed-bank causal claims** |
-| **The Price of Care — Health Economics (private research repository)** | Real historical RAND Health Insurance Experiment sample (20,190 observations), Poisson HC3/NB2, zero-truncated hurdle and predictive ML | **Genuine historical data; exploratory associations, not randomized causal estimates** |
-| **Medicare Claims Integrity Lab — Python (private research repository)** | Claim-granularity quality assurance, synthetic Medicare-compatible ingestion, count-data Econometrics and known-truth Monte Carlo | **Methods demonstration; official CMS-supplied synthetic-file validation remains pending** |
+| **The Price of Care — Health Economics | Real historical RAND Health Insurance Experiment sample (20,190 observations), Poisson HC3/NB2, zero-truncated hurdle and predictive ML | **Genuine historical data; exploratory associations, not randomized causal estimates** |
+| **Medicare Claims Integrity Lab — Python | Claim-granularity quality assurance, synthetic Medicare-compatible ingestion, count-data Econometrics and known-truth Monte Carlo | **Methods demonstration; official CMS-supplied synthetic-file validation remains pending** |
 | [**E-Commerce Purchase Intention Prediction**](https://github.com/muhammad-siddique-research/ecommerce-purchase-prediction-ml) | UCI dataset classification, held-out model comparisons, ROC/precision–recall analysis and timing-sensitivity checks | Executed academic benchmarking project |
 | [**Peer-reviewed Applied Economics scholarship**](https://scholar.google.com/citations?user=0Dthp5IAAAAJ) | International Trade, competitiveness, Environmental and Energy Economics, financial and policy questions | Published research; bibliographic record on Google Scholar |
 
