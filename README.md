@@ -18,7 +18,7 @@ International Economics & Trade · Health Economics · Educational Data Science 
 
 I am an interdisciplinary researcher working at the intersection of **Economic Theory, Advanced Econometrics, Artificial Intelligence, and Empirical Data Science**. I design and evaluate reproducible analytical systems that connect substantive research questions to credible inference, predictive performance, and policy-relevant interpretation.
 
-My work spans **International Trade, Economic Measurement, Environmental and Energy Economics, Financial Risk, Health Economics, and Educational Analytics**. Across these fields, I integrate statistical modeling, Machine Learning, Explainable AI, and rigorous validation to understand **where evidence is robust, where models disagree, and which conclusions the available data can actually support**.
+My research is grounded in **Applied and Computational Economics**, with a primary focus on **International Trade** and interdisciplinary applications in **Health Economics and Educational Data Science**. I integrate **Econometrics, Machine Learning, and Explainable AI** to evaluate model robustness, predictive reliability, and the strength of empirical conclusions—while distinguishing statistical associations from credible causal evidence.
 
 **Academic foundation.** PhD in Economics; EdD with a Computer Science specialization at Judson University (**expected December 2026**); visiting doctoral research fellowship at **Indiana University Bloomington (2022)**. My background also includes [peer-reviewed Applied Economics scholarship](https://scholar.google.com/citations?user=0Dthp5IAAAAJ), university-level teaching, curriculum development, and research mentorship.
 
