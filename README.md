@@ -4,9 +4,9 @@
 
 # Muhammad Siddique, PhD
 
-**Computational Economist · AI/ML Researcher · Applied Econometrics & Quantitative Data Science**
+**Computational Economist · AI/ML & Data Science Researcher · Interdisciplinary Quantitative Researcher**
 
-International Economics & Trade · Health Economics · Educational Data Science · Financial Risk · Public Policy
+Advanced Econometrics · Causal Inference · Explainable AI · Reproducible Research
 
 [**Google Scholar**](https://scholar.google.com/citations?user=0Dthp5IAAAAJ) · [**LinkedIn**](https://www.linkedin.com/in/muhammad-siddique-phd-72954785/) · [**Research Projects**](#selected-research) · [**Methods & Tools**](#analytical-expertise)
 
@@ -16,9 +16,9 @@ International Economics & Trade · Health Economics · Educational Data Science 
 
 ## Research identity
 
-I am an interdisciplinary researcher working at the intersection of **Economic Theory, Advanced Econometrics, Artificial Intelligence, and Empirical Data Science**. I design and evaluate reproducible analytical systems that connect substantive research questions to credible inference, predictive performance, and policy-relevant interpretation.
+I am a **Computational Economist and Interdisciplinary Quantitative Researcher** integrating **AI/ML, Data Science, and Advanced Econometrics** with economic theory and rigorous empirical research. I design reproducible analytical frameworks that connect substantive research questions to statistical inference, predictive modeling, and decision-relevant evidence.
 
-My research is grounded in **Applied and Computational Economics**, with a primary focus on **International Trade** and interdisciplinary applications in **Health Economics and Educational Data Science**. I integrate **Econometrics, Machine Learning, and Explainable AI** to evaluate model robustness, predictive reliability, and the strength of empirical conclusions—while distinguishing statistical associations from credible causal evidence.
+My research combines **Econometric Modeling, Statistical Learning, Explainable AI (XAI), and Causal Inference research design** to investigate economic and social systems. Building on a core foundation in **Applied and Computational Economics**, I apply transferable quantitative methods to International Trade and selected problems in education, healthcare, and financial analytics. Across projects, I prioritize sound measurement, robust specification, out-of-sample validation, reproducibility, and a clear distinction between **prediction, association, and causation**.
 
 **Academic foundation.** PhD in Economics; EdD with a Computer Science specialization at Judson University (**expected December 2026**); visiting doctoral research fellowship at **Indiana University Bloomington (2022)**. My background also includes [peer-reviewed Applied Economics scholarship](https://scholar.google.com/citations?user=0Dthp5IAAAAJ), university-level teaching, curriculum development, and research mentorship.
 
