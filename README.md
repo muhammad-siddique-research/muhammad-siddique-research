@@ -4,9 +4,9 @@
 
 # Muhammad Siddique, PhD
 
-**Computational Economist · AI/ML & Data Science Researcher · Interdisciplinary Quantitative Researcher**
+**Computational Economist · Educational Data Science & AI/ML Researcher · Interdisciplinary Quantitative Researcher**
 
-Advanced Econometrics · Causal Inference · Explainable AI · Reproducible Research
+Advanced Econometrics · Learning Analytics · Causal Inference · Explainable AI
 
 [**Google Scholar**](https://scholar.google.com/citations?user=0Dthp5IAAAAJ) · [**LinkedIn**](https://www.linkedin.com/in/muhammad-siddique-phd-72954785/) · [**Research Projects**](#selected-research) · [**Methods & Tools**](#analytical-expertise)
 
@@ -16,9 +16,9 @@ Advanced Econometrics · Causal Inference · Explainable AI · Reproducible Rese
 
 ## Research identity
 
-I am a **Computational Economist and Interdisciplinary Quantitative Researcher** integrating **AI/ML, Data Science, and Advanced Econometrics** with economic theory and rigorous empirical research. I design reproducible analytical frameworks that connect substantive research questions to statistical inference, predictive modeling, and decision-relevant evidence.
+I conduct interdisciplinary quantitative research at the intersection of **Computational Economics, Educational Data Science, and AI/ML**. Combining economic theory with **Advanced Econometrics, Statistical Learning, and Explainable AI**, I investigate how economic conditions, educational experiences, and institutional environments relate to human capital, student outcomes, and evidence-informed decisions. My work emphasizes reproducible research design, rigorous measurement, robust inference, and transparent predictive evaluation.
 
-My research combines **Econometric Modeling, Statistical Learning, Explainable AI (XAI), and Causal Inference research design** to investigate economic and social systems. Building on a core foundation in **Applied and Computational Economics**, I apply transferable quantitative methods to International Trade and selected problems in education, healthcare, and financial analytics. Across projects, I prioritize sound measurement, robust specification, out-of-sample validation, reproducibility, and a clear distinction between **prediction, association, and causation**.
+My methodological foundation in **Applied Economics and International Trade** complements research in **Learning Analytics, Student Success, and Educational Assessment**. I develop and evaluate quantitative frameworks relevant to **Institutional Research and Effectiveness**, including model comparison, uncertainty analysis, and responsible interpretation of observational and survey data. Across domains, I distinguish **prediction from causal identification** and translate technical findings into clear, decision-relevant evidence for academic and policy audiences.
 
 **Academic foundation.** PhD in Economics; EdD with a Computer Science specialization at Judson University (**expected December 2026**); visiting doctoral research fellowship at **Indiana University Bloomington (2022)**. My background also includes [peer-reviewed Applied Economics scholarship](https://scholar.google.com/citations?user=0Dthp5IAAAAJ), university-level teaching, curriculum development, and research mentorship.
 
@@ -73,7 +73,7 @@ The projects below represent distinct research directions. **Working studies, hi
 
 ## Academic research & professional engagement
 
-My work is oriented toward **Research Scientist, Computational Economist, Applied Economist, Institutional Research, Educational Data Science, and interdisciplinary AI/ML research** roles, including academic, public-interest, and industry research collaborations.
+My research profile supports opportunities in **Postdoctoral Research, Research Scientist and Quantitative Research roles, Institutional Research and Educational Analytics, and university Lecturer or research-and-teaching appointments**. I am interested in collaborations that connect Computational Economics, AI/ML, Educational Data Science, rigorous evaluation, and research-informed higher education.
 
 <div align="center">
 
