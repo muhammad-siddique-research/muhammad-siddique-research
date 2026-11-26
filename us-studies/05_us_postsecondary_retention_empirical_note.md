@@ -60,4 +60,4 @@ A complete editable manuscript, the official-table reconstruction script, all 54
 
 **Next stage:** obtain authentic IPEDS EF20xxD, HD20xx, student aid, and institutional attributes for sufficient years; verify UNITID, outcome cohort definition, sample support and source vintage; build a genuine institution-year panel; develop distinct hypotheses and defensible associations/forecast evaluation; only then decide journal submission feasibility.
 
-[Research program](../../US_RESEARCH_PROGRAM.md) · [Publication and national-impact standards](../../research-standards/JOURNAL_PUBLICATION_AND_NATIONAL_IMPACT.md)
+[Research program](../US_RESEARCH_PROGRAM.md) · [Publication and national-impact standards](../research-standards/JOURNAL_PUBLICATION_AND_NATIONAL_IMPACT.md)
