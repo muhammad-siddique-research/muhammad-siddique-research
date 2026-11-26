@@ -35,15 +35,22 @@ My expertise spans **Econometric Modeling, Quantitative Research Design, Machine
 | [**U.S. Healthcare Access, Need & Geographic Variation**](us-studies/03_health_access.md) | [CMS Medicare geographic variation](https://data.cms.gov/tools/geographic-variation-in-standardized-medicare-spending-state) + [CDC PLACES](https://www.cdc.gov/places/) | Research protocol + [reproducible CDC data-audit starter](us-studies/cdc_places_pilot/README.md) |
 | [**Institutional Effectiveness & Student Outcomes**](us-studies/04_institutional_research.md) | [NCES IPEDS](https://nces.ed.gov/ipeds/) + [College Scorecard](https://collegescorecard.ed.gov/data/) | Research protocol; not an AI-treatment evaluation |
 
-[**U.S. research agenda & priorities**](US_RESEARCH_PROGRAM.md) · [**Data provenance & evidence standards**](research-standards/EVIDENCE_POLICY.md) · [**CDC real-data ingestion starter**](us-studies/cdc_places_pilot/README.md)
+[**U.S. research agenda & priorities**](US_RESEARCH_PROGRAM.md) · [**NCES U.S. AI-in-schools benchmarks**](us-studies/NCES_SPP_SOURCE_BENCHMARKS.md) · [**Evidence standards**](research-standards/EVIDENCE_POLICY.md) · [**CDC real-data ingestion starter**](us-studies/cdc_places_pilot/README.md)
 
 ---
 
 ## Selected research
 
-The projects below document established and ongoing work across U.S. and international settings. **Historical observational analyses, original survey findings, working studies, and synthetic experiments are identified separately.** New U.S.-focused studies appear in the research program above and are **not** represented as completed results.
+The following are **existing scholarly and computational projects**. Their documented evidence status is preserved: an exploratory historical analysis, an original survey, an archived research report, and a synthetic experiment are not interchangeable. The new U.S. research protocols above are **not** presented as completed analyses.
 
-### International Economics & Trade Intelligence
+### Educational Data Science & Learning Analytics
+
+| Project | Research focus & demonstrated scope |
+|:---|:---|
+| [**The Science of Student Thriving**](https://github.com/muhammad-siddique-research/higher-ed-flourishing-prediction-ml-xai) | Original undergraduate survey (**152 complete cases**); HC3-Robust Regression, repeated ML benchmarking, and held-out Tree SHAP. *Collaborative working manuscript; individual-level data are not public.* |
+| [**When Early Signals Travel — OULAD**](https://github.com/muhammad-siddique-research/oulad-explainable-ai-student-risk) | **24,835 learners** in the reported historical day-28 cohort; cross-course academic-risk prediction and calibration. *Archived research outputs; a complete independent source-data rerun remains outstanding.* |
+
+### Computational Economics & International Trade
 
 | Project | Research focus & demonstrated scope |
 |:---|:---|
@@ -52,21 +59,14 @@ The projects below document established and ongoing work across U.S. and interna
 | [**Pakistan Export Opportunity Intelligence**](https://github.com/muhammad-siddique-research/pakistan-export-opportunity-intelligence) | Public-source BACI assessment of potential product–destination entries, with a **79,004-pair holdout cohort** and Logistic-versus-Boosting evaluation. *Working empirical research; not a causal policy evaluation.* |
 | [**Export Diversification & Shock Resilience**](https://github.com/muhammad-siddique-research/export-diversification-shock-resilience) | HS4 product-market entry and cross-period prediction; **20,005 observations** in the 2024 holdout. *Unpublished working study.* |
 
-### Health Economics & Educational Data Science
+### Health Economics, Financial Risk & Computational Systems
 
 | Project | Research focus & demonstrated scope |
 |:---|:---|
 | [**The Price of Care — Beyond Poisson**](https://github.com/muhammad-siddique-research/price-of-care-health-economics) | **20,190 historical RAND HIE observations**; Poisson HC3, NB2, hurdle likelihoods, and Gradient-Boosted Poisson prediction. Demonstrates **model-sensitive inference**; results are *exploratory and noncausal*. |
-| [**The Science of Student Thriving**](https://github.com/muhammad-siddique-research/higher-ed-flourishing-prediction-ml-xai) | Original undergraduate survey (**152 complete cases**); HC3-Robust Regression, repeated ML benchmarking, and held-out Tree SHAP. *Collaborative working manuscript; individual-level data are not public.* |
-| [**When Early Signals Travel — OULAD**](https://github.com/muhammad-siddique-research/oulad-explainable-ai-student-risk) | **24,835 learners** in the reported historical day-28 cohort; cross-course academic-risk prediction and calibration. *Archived research outputs; a complete independent source-data rerun remains outstanding.* |
-
-### Financial Risk & Computational Systems
-
-| Project | Research focus & demonstrated scope |
-|:---|:---|
-| [**Network Fragility & Macroprudential Resilience**](https://github.com/muhammad-siddique-research/systemic-causal-gnn) | Network clearing, GAT–GRU prediction, cross-fitted Double Machine Learning, and stress simulations. *Network and intervention results are synthetic, not observed-bank policy effects.* |
-| [**Corporate Bankruptcy Prediction**](https://github.com/muhammad-siddique-research/financial-risk-ai) | Financial distress classification using company indicators, ensemble Machine Learning, and SHAP-based model interpretation. |
 | [**Medicare Claims Integrity Lab**](https://github.com/muhammad-siddique-research/medicare-claims-an-innovtive-research) | Claims-granularity measurement checks, count Econometrics, and Monte Carlo validation. *Demonstrated on synthetic examples; not real patient claims analysis.* |
+| [**Corporate Bankruptcy Prediction**](https://github.com/muhammad-siddique-research/financial-risk-ai) | Financial distress classification using company indicators, ensemble Machine Learning, and SHAP-based model interpretation. |
+| [**Network Fragility & Macroprudential Resilience**](https://github.com/muhammad-siddique-research/systemic-causal-gnn) | Network clearing, GAT–GRU prediction, cross-fitted Double Machine Learning, and stress simulations. *Network and intervention results are synthetic, not observed-bank policy effects.* |
 
 **Additional work:** [E-Commerce Purchase Intention](https://github.com/muhammad-siddique-research/ecommerce-purchase-prediction-ml) · [Trade Data Reliability & XAI](https://github.com/muhammad-siddique-research/pakistan-trade-data-reliability-xai) · [All repositories](https://github.com/muhammad-siddique-research?tab=repositories)
 

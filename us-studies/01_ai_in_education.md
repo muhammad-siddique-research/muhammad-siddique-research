@@ -9,6 +9,8 @@ How do U.S. public schools differ in reported **AI-related policies, teacher tra
 
 The question is about **measured readiness and governance**, not whether adopting AI causes higher student achievement.
 
+[**Official U.S. benchmark indicators (source-reported, not independently recomputed)**](NCES_SPP_SOURCE_BENCHMARKS.md)
+
 ## Verified data source
 
 - **Producer:** National Center for Education Statistics (NCES), School Pulse Panel (SPP).
