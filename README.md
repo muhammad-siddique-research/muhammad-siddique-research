@@ -1,142 +1,84 @@
 <div align="center">
 
-# Muhammad Siddique, Ph.D.
+<img src="assets/research_profile_banner.svg" alt="Computational Economics and Artificial Intelligence research portfolio" width="100%">
 
-### Applied Economist · Interdisciplinary Quantitative Researcher · Educational Data Scientist
+# Muhammad Siddique, PhD
 
-** Applied Econometrics | Applied Computational Research | Machine Learning & Explainable AI | Higher Education Research**
+**Computational Economist · AI/ML Researcher · Applied Econometrics & Quantitative Data Science**
 
-[**Google Scholar**](https://scholar.google.com/citations?user=0Dthp5IAAAAJ) · [**LinkedIn**](https://www.linkedin.com/in/muhammad-siddique-phd-72954785/) · [**Featured Research**](#selected-research-projects) · [**Methodological Expertise**](#research-methods--analytical-specializations)
+International Economics & Trade · Health Economics · Educational Data Science · Financial Risk · Public Policy
+
+[**Google Scholar**](https://scholar.google.com/citations?user=0Dthp5IAAAAJ) · [**LinkedIn**](https://www.linkedin.com/in/muhammad-siddique-phd-72954785/) · [**Research Projects**](#selected-research) · [**Methods & Tools**](#analytical-expertise)
 
 </div>
 
 ---
 
-## Research profile
+## Research identity
 
-I investigate empirical questions at the intersection of **Applied Economics, Health Economics methods, Computational Social Science, Educational Data Science, and Evidence-Informed Policy**. My health-related portfolio consists of independent computational studies and genuine historical secondary-data analyses, not professional access to restricted patient records. My research integrates theoretical reasoning with rigorous **Econometric Modeling**, reproducible statistical analysis, and **Explainable Machine Learning (XAI)** to distinguish what the data show, what models can predict, and what would require a credible causal research design.
+I am an interdisciplinary researcher working at the intersection of **Economic Theory, Advanced Econometrics, Artificial Intelligence, and Empirical Data Science**. I design and evaluate reproducible analytical systems that connect substantive research questions to credible inference, predictive performance, and policy-relevant interpretation.
 
-I hold a **Ph.D. in Economics (conferred January 2026)** and am completing an **Ed.D. with a Computer Science specialization at Judson University (anticipated December 2026)**. My research experience includes an externally funded visiting doctoral fellowship at **Indiana University Bloomington**, peer-reviewed work in **International Trade, Finance, and Environmental and Energy Economics**, university teaching, curriculum development, and undergraduate/graduate research mentorship.
+My work spans **International Trade, Economic Measurement, Environmental and Energy Economics, Financial Risk, Health Economics, and Educational Analytics**. Across these fields, I integrate statistical modeling, Machine Learning, Explainable AI, and rigorous validation to understand **where evidence is robust, where models disagree, and which conclusions the available data can actually support**.
 
-**Research principle:** Statistical significance is not predictive validity; predictive attribution is not causal identification. Credible evidence demands careful measurement, transparent assumptions, realistic validation, and substantive interpretation.
+**Academic foundation.** PhD in Economics; EdD with a Computer Science specialization at Judson University (**expected December 2026**); visiting doctoral research fellowship at **Indiana University Bloomington (2022)**. My background also includes [peer-reviewed Applied Economics scholarship](https://scholar.google.com/citations?user=0Dthp5IAAAAJ), university-level teaching, curriculum development, and research mentorship.
 
-![Research workflow connecting theoretical research design, data governance, robust econometrics, predictive machine learning and interpretable AI](assets/econometrics_xai_research_workflow.svg)
+> **Research orientation:** Build models that are useful, assumptions that are inspectable, and conclusions that remain defensible under scrutiny.
 
-## Selected research projects
+## Selected research
 
-### 01 · Explainable AI for Early Academic Risk
+The projects below represent distinct research directions. **Working studies, historical observational analyses, original survey findings, and synthetic experiments are identified rather than presented as equivalent forms of evidence.**
 
-**Historical UK higher education | OULAD | Robust Econometrics · XGBoost · SHAP**
+### International Economics & Trade Intelligence
 
-*Original secondary-data analysis; extended scholarly working manuscript under pre-submission review. Not yet peer-reviewed or published.*
-
-A time-bounded Learning Analytics study of subsequent **Fail/Withdrawn** outcomes using the historic **Open University Learning Analytics Dataset (OULAD)**. The research compares interpretable statistical baselines and tree ensembles, while testing how prediction reliability changes across course presentations and unseen modules.
-
-| Study component | Verified empirical evidence |
+| Project | Research focus & demonstrated scope |
 |:---|:---|
-| Eligible analytic cohort | **24,835 distinct learners** |
-| Primary test sample | **7,239 learners; six held-out course presentations** |
-| Logistic Regression | Average precision **0.663** · ROC-AUC **0.717** · Brier **0.209** |
-| XGBoost | Average precision **0.685** · ROC-AUC **0.724** · Brier **0.204** |
-| Econometric inference | HC3-robust and course-presentation-clustered uncertainty for conditional associations |
-| Generalization | Time-based validation, unseen-module tests, feature ablation and cutoff sensitivity |
+| [**Global Trade Network Durability**](https://github.com/muhammad-siddique-research/global-trade-network-durability) | **74,684 link-year observations** from CEPII BACI; network persistence, Econometric association, and out-of-time export-retention screening. *Unpublished working research; partial replication checkpoints.* |
+| [**International Trade Unit-Value Analytics**](https://github.com/muhammad-siddique-research/international-trade-unit-value-analytics) | **2.62 million matched bilateral-product links**; fixed-reference measurement, sample-support sensitivity, and robust statistical quality assurance. *Unpublished working research.* |
+| [**Pakistan Export Opportunity Intelligence**](https://github.com/muhammad-siddique-research/pakistan-export-opportunity-intelligence) | Public-source BACI assessment of potential product–destination entries, with a **79,004-pair holdout cohort** and Logistic-versus-Boosting evaluation. *Working empirical research; not a causal policy evaluation.* |
+| [**Export Diversification & Shock Resilience**](https://github.com/muhammad-siddique-research/export-diversification-shock-resilience) | HS4 product-market entry and cross-period prediction; **20,005 observations** in the 2024 holdout. *Unpublished working study.* |
 
-![Authentic OULAD model comparison: average precision and Brier score for a prevalence baseline, Logistic Regression, Random Forest and XGBoost](assets/oulad_holdout_model_comparison.svg)
+### Health Economics & Educational Data Science
 
-**Research interpretation.** XGBoost exhibits a **modest primary-split ranking advantage**, but performance is context-sensitive. In leave-one-module-out checks, its Brier score was worse than Logistic Regression on **five of seven modules**. The substantive contribution concerns *transportability, calibration, and explainability under changing learning environments*, rather than a claim that algorithmic complexity always improves student-risk assessment.
-
-- **Data attribution:** [Open University OULAD](https://research.stem.open.ac.uk/ouanalyse/dataset/) · [UCI dataset DOI](https://doi.org/10.24432/C5KK69) · [Original scholarly data descriptor](https://doi.org/10.1038/sdata.2017.171).
-- **Reproducibility:** Dedicated research repository and detailed analysis package are maintained; access can be discussed for scholarly collaboration.
-- **Inference boundary:** Historical UK observational records; **no live AI feedback, robotic assistant, U.S. campus deployment, or causal intervention** was evaluated.
-
-### 02 · The Science of Student Thriving
-
-**U.S. Higher Education | Psychosocial Measurement · Robust Regression · Predictive ML · Tree SHAP**
-
-[**Explore the public research repository →**](https://github.com/muhammad-siddique-research/higher-ed-flourishing-prediction-ml-xai) · [**Read real-data validation notes →**](https://github.com/muhammad-siddique-research/higher-ed-flourishing-prediction-ml-xai/blob/main/docs/REAL_DATA_VALIDATION.md)
-
-*Collaborative scholarly working manuscript; not represented as published or externally validated.*
-
-A single-institution undergraduate survey examines how **Sense of Community, Institutional Integrity, and Spirituality** relate to student thriving. The study integrates theory-based regression and sensitivity diagnostics with internal predictive benchmarking and held-out explanations.
-
-| Analytical layer | Reported finding or research safeguard |
+| Project | Research focus & demonstrated scope |
 |:---|:---|
-| Original survey | **156 respondents; 152 complete cases** |
-| Regression fit | **R² = 0.436; adjusted R² = 0.424** |
-| Community association | **B = 0.405; HC3 95% CI [0.267, 0.543]** |
-| Predictive validation | **Five repeats of 5-fold CV**, seven model configurations |
-| XGBoost vs Random Forest | RMSE **0.379** vs **0.380** — practically indistinguishable |
-| Model interpretation | Mean absolute held-out SHAP; **not** an estimate of intervention impact |
+| [**The Price of Care — Beyond Poisson**](https://github.com/muhammad-siddique-research/price-of-care-health-economics) | **20,190 historical RAND HIE observations**; Poisson HC3, NB2, hurdle likelihoods, and Gradient-Boosted Poisson prediction. Demonstrates **model-sensitive inference**; results are *exploratory and noncausal*. |
+| [**The Science of Student Thriving**](https://github.com/muhammad-siddique-research/higher-ed-flourishing-prediction-ml-xai) | Original undergraduate survey (**152 complete cases**); HC3-Robust Regression, repeated ML benchmarking, and held-out Tree SHAP. *Collaborative working manuscript; individual-level data are not public.* |
+| [**When Early Signals Travel — OULAD**](https://github.com/muhammad-siddique-research/oulad-explainable-ai-student-risk) | **24,835 learners** in the reported historical day-28 cohort; cross-course academic-risk prediction and calibration. *Archived research outputs; a complete independent source-data rerun remains outstanding.* |
 
-**Explainable AI — aggregate held-out Tree SHAP**
+### Financial Risk & Computational Systems
 
-![Real undergraduate survey: aggregate out-of-fold Tree SHAP feature attributions for sense of community, spirituality and institutional integrity](https://raw.githubusercontent.com/muhammad-siddique-research/higher-ed-flourishing-prediction-ml-xai/main/docs/figures/REAL_STUDY_aggregate_SHAP.svg)
-
-*Aggregate attribution magnitude in the reported internal study: Sense of Community (0.258), Spirituality (0.130), Institutional Integrity (0.051). The original individual-level survey remains restricted; SHAP measures reliance of the fitted predictor, **not causal importance**.*
-
-**Predictive benchmark — internally held-out error**
-
-![Real undergraduate survey: RMSE comparison from 25 overlapping held-out folds across machine learning and statistical models](https://raw.githubusercontent.com/muhammad-siddique-research/higher-ed-flourishing-prediction-ml-xai/main/docs/figures/REAL_STUDY_model_errors.svg)
-
-[**Interactive Research & Policy Lab (Streamlit) →**](https://higher-ed-flourishing-prediction-ml-xai-cj3qpcffjve46ochqrdtn9.streamlit.app/) · [**Model interpretation and validation protocol →**](https://github.com/muhammad-siddique-research/higher-ed-flourishing-prediction-ml-xai/blob/main/docs/REAL_DATA_VALIDATION.md)
-
-*The Streamlit application is a research-communication and methodological-literacy prototype—not a validated personal risk-assessment or advising system. Survey findings are institution-specific; authorship and research-governance requirements remain subject to confirmation for journal submission.*
-
-### 03 · Additional computational research
-
-| Project | Research contribution | Evidence status |
-|:---|:---|:---|
-| [**Financial Risk AI: Corporate Bankruptcy Prediction**](https://github.com/muhammad-siddique-research/financial-risk-ai) | Financial-risk classification, model diagnostics and transparent ML-based decision support | Reproducible computational research project |
-| [**Network Fragility Under Stress: Financial Contagion, GAT–GRU and Double Machine Learning**](https://github.com/muhammad-siddique-research/systemic-causal-gnn) | Convergence-checked Eisenberg–Noe clearing, paired policy simulations, independent-network GNN and Logistic/Forest/Boosted ML validation, and separately cross-fitted DML | **Executed synthetic benchmark with published tests, figures and uncertainty; no observed-bank causal claims** |
-| [The Price of Care — Health Economics](https://github.com/muhammad-siddique-research/price-of-care-health-economics)| Real historical RAND Health Insurance Experiment sample (20,190 observations), Poisson HC3/NB2, zero-truncated hurdle and predictive ML | **Genuine historical data; exploratory associations, not randomized causal estimates** |
-| [Medicare Claims Integrity Lab — Health Economics](https://github.com/muhammad-siddique-research/medicare-claims-an-innovtive-research) | Claim-granularity quality assurance, synthetic Medicare-compatible ingestion, count-data Econometrics and known-truth Monte Carlo | **Methods demonstration; official CMS-supplied synthetic-file validation remains pending** |
-| [**E-Commerce Purchase Intention Prediction**](https://github.com/muhammad-siddique-research/ecommerce-purchase-prediction-ml) | UCI dataset classification, held-out model comparisons, ROC/precision–recall analysis and timing-sensitivity checks | Executed academic benchmarking project |
-| [**Peer-reviewed Applied Economics scholarship**](https://scholar.google.com/citations?user=0Dthp5IAAAAJ) | International Trade, competitiveness, Environmental and Energy Economics, financial and policy questions | Published research; bibliographic record on Google Scholar |
-
-**Systemic network research — auditable computational outputs**
-
-![Synthetic financial network policy comparisons generated by executed clearing simulations](https://raw.githubusercontent.com/muhammad-siddique-research/systemic-causal-gnn/main/reports/figures/figure_1_policy_interventions.png)
-
-*Illustrative Monte Carlo results, not observed bank policy outcomes. See the [research methodology and source-provenance boundaries](https://github.com/muhammad-siddique-research/systemic-causal-gnn/blob/main/docs/DATA_AND_IDENTIFICATION.md).*
-
-## Research methods & analytical specializations
-
-| Research domain | Methods and methodological priorities |
+| Project | Research focus & demonstrated scope |
 |:---|:---|
-| **Econometric Inference** | OLS; Logistic Regression; robust **HC3** inference; panel-data models; clustered uncertainty where identifiers permit; Poisson/NB2/hurdle counts; cross-fitted Double Machine Learning in specified synthetic designs; identification and sensitivity diagnostics |
-| **Applied Economic Modeling** | Gravity Models; ARDL / Nonlinear ARDL; Real Effective Exchange Rate; Revealed Comparative Advantage; financial network clearing, systemic risk simulations and controlled stress-test experiments |
-| **Predictive Machine Learning** | Regularized Regression; Random Forest; **XGBoost**; LightGBM; **GAT–GRU graph prediction on independently held-out synthetic networks**; grouped and temporal holdouts; leakage-aware preprocessing and validation |
-| **Explainable AI and Assessment** | **Tree SHAP**, aggregate attribution, explanation stability, model calibration, Brier score, average precision, ROC-AUC, RMSE and subgroup diagnostics |
-| **Educational Data Science** | Longitudinal course activity, student-success and thriving measurement, survey analytics, institutional evidence and responsible learning-support applications |
-| **Health Economics & Research Ethics** | Real historic RAND HIE secondary analysis; synthetic Medicare claims workflow; utilization-versus-need distinctions, model adequacy, administrative-data provenance and explicit noncausal limitations |
-| **Research Reproducibility** | Python, R, pandas, NumPy, statsmodels, scikit-learn, SQL, Stata, EViews, IBM SPSS Statistics, Jupyter, PyTorch, GitHub Actions and reproducible documentation |
+| [**Network Fragility & Macroprudential Resilience**](https://github.com/muhammad-siddique-research/systemic-causal-gnn) | Network clearing, GAT–GRU prediction, cross-fitted Double Machine Learning, and stress simulations. *Network and intervention results are synthetic, not observed-bank policy effects.* |
+| [**Corporate Bankruptcy Prediction**](https://github.com/muhammad-siddique-research/financial-risk-ai) | Financial distress classification using company indicators, ensemble Machine Learning, and SHAP-based model interpretation. |
+| [**Medicare Claims Integrity Lab**](https://github.com/muhammad-siddique-research/medicare-claims-an-innovtive-research) | Claims-granularity measurement checks, count Econometrics, and Monte Carlo validation. *Demonstrated on synthetic examples; not real patient claims analysis.* |
 
-### Methodological approach
+**Additional work:** [E-Commerce Purchase Intention](https://github.com/muhammad-siddique-research/ecommerce-purchase-prediction-ml) · [Trade Data Reliability & XAI](https://github.com/muhammad-siddique-research/pakistan-trade-data-reliability-xai) · [All repositories](https://github.com/muhammad-siddique-research?tab=repositories)
 
-The central theme across my portfolio is **triangulation without conflation**:
+## Analytical expertise
 
-1. **Econometrics** estimates conditional relationships and quantifies inferential uncertainty, with assumptions made explicit.
-2. **Machine Learning** assesses out-of-sample predictive utility against transparent baselines under realistic validation schemes.
-3. **Explainable AI** summarizes how fitted models use predictors; **SHAP is not a causal identification strategy**.
-4. **Policy translation** considers measurement validity, data privacy, distribution shift, subgroup reliability and the additional evidence required before intervention.
+| Research capability | Methods, tools & evaluation priorities |
+|:---|:---|
+| **Applied Econometrics & Causal Inference** | Robust and clustered inference when identifiable; Panel-Data Models; Poisson/NB2/hurdle counts; interaction analysis; Double Machine Learning; identification diagnostics; sensitivity and falsification checks. |
+| **Machine Learning & Statistical Learning** | Regularized Models; Random Forest; Gradient Boosting and XGBoost; graph-based prediction; leakage-aware grouped and temporal holdouts; calibration and uncertainty assessment. |
+| **Explainable AI & Responsible Analytics** | SHAP, permutation feature importance, subgroup diagnostics, interpretability stability, provenance audits, and the explicit separation of predictive attribution from causal mechanisms. |
+| **Computational Research Engineering** | **Python**, pandas, NumPy, statsmodels, scikit-learn, PyTorch, SQL, **Stata**, **SPSS**, **EViews**, Jupyter, Git/GitHub, automated tests, and documented reproducible pipelines. |
+| **Economic & Policy Applications** | International Trade, Trade Networks, Export Diversification, Financial Risk, Healthcare Utilization, Educational Outcomes, and policy evaluation design. |
 
-## Teaching, research mentorship & academic background
+### How I approach evidence
 
-- **Ph.D., Economics** — National College of Business Administration & Economics, Lahore, Pakistan (January 2026).
-- **Ed.D., Computer Science specialization** — Judson University, Illinois (anticipated December 2026); research interests include AI-enhanced learning and Quantitative Educational Research.
-- **Visiting Doctoral Research Fellow** — Indiana University Bloomington (2021–2022); longitudinal empirical research in International Trade.
-- **University instruction and mentorship** — Economics, Applied Quantitative Methods, research design, curriculum development, and student-led empirical projects.
+<img src="assets/econometrics_xai_research_workflow.svg" alt="Research workflow connecting research design, data governance, robust econometrics, predictive machine learning and explainability" width="100%">
 
-**Academic interests:** Postdoctoral Research · Educational Data Science · Institutional Research · Econometrics · Quantitative Policy Evaluation · AI/ML for Education and Social Science.
+**Theory → Measurement → Identification → Estimation → Validation → Interpretation.** Econometric significance, predictive accuracy, and causal identification answer different questions. I benchmark alternative specifications, document uncertainty and data limitations, and distinguish **published scholarship, working research, genuine historical datasets, and synthetic computational experiments**.
 
----
+## Academic research & professional engagement
+
+My work is oriented toward **Research Scientist, Computational Economist, Applied Economist, Institutional Research, Educational Data Science, and interdisciplinary AI/ML research** roles, including academic, public-interest, and industry research collaborations.
 
 <div align="center">
 
-### Open methods. Transparent uncertainty. Evidence that can be challenged and reproduced.
+**Rigorous methods · Reproducible evidence · Responsible interpretation**
 
-[**Scholarship**](https://scholar.google.com/citations?user=0Dthp5IAAAAJ) · [**Research repositories**](https://github.com/muhammad-siddique-research?tab=repositories) · [**Professional profile**](https://www.linkedin.com/in/muhammad-siddique-phd-72954785/)
-
-*Research status, datasets, and methodological limitations are stated alongside each project; no working manuscript is presented here as an accepted publication.*
+[**Explore my repositories**](https://github.com/muhammad-siddique-research?tab=repositories) · [**Read my publications**](https://scholar.google.com/citations?user=0Dthp5IAAAAJ) · [**Connect on LinkedIn**](https://www.linkedin.com/in/muhammad-siddique-phd-72954785/)
 
 </div>
