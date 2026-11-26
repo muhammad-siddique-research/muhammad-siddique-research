@@ -26,6 +26,9 @@ My expertise spans **Econometric Modeling, Quantitative Research Design, Machine
 
 ## U.S. research program | 2026–2027
 
+**Publication standard:** New U.S. studies are developed for defensible peer-reviewed journal publication, with verified novelty, genuine public data, rigorous estimation, reproducibility, and explicit policy relevance. Journal acceptance and immigration outcomes are **not presumed**. [Read the publication and national-impact framework](research-standards/JOURNAL_PUBLICATION_AND_NATIONAL_IMPACT.md).
+
+
 **Forward research priority:** emerging U.S. challenges in **AI in Education, the Economics of AI, Institutional Research, and Healthcare Access**. New empirical papers will use **authentic, citable U.S. public-sector datasets**, documented source vintages, transparent reproducibility checks, and explicit inferential limits. *The studies below are protocols, not completed analyses or research findings.*
 
 | U.S. research track | Official data foundation | Current stage |

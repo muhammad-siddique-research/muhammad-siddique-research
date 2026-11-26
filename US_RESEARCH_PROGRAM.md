@@ -4,6 +4,8 @@
 **Portfolio lens:** Computational Economics × Educational Data Science × Responsible AI/ML  
 **Initial status (25 November 2026):** Research designs and source verification; **not results, published manuscripts, or registered studies**.
 
+**Publication-governance standard:** [Journal-Quality Research & U.S. National Impact Framework](research-standards/JOURNAL_PUBLICATION_AND_NATIONAL_IMPACT.md). Each study must clear an independent novelty and data/design gate before being promoted from a protocol to a journal-targeted manuscript. Strong statistical associations and model benchmarking are insufficient by themselves for a causal or major policy contribution.
+
 ## Decision
 
 From this point forward, prioritize **original U.S.-focused empirical studies addressing emerging economic, educational, and healthcare problems**, using verifiable authentic datasets. Existing international and historical projects remain labeled and preserved; they are not retroactively reclassified as U.S. 2026 evidence. Synthetic data may be used for software testing or methods demonstrations only, never as a substitute for observational or experimental results.

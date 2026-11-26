@@ -2,6 +2,8 @@
 
 **Applies to all new U.S. empirical projects in this portfolio.** Date adopted: 25 November 2026. This is a workflow standard, not an assertion that existing studies have already satisfied every requirement.
 
+**Additional mandatory standard:** [Journal-Quality Research & U.S. National Impact Framework](JOURNAL_PUBLICATION_AND_NATIONAL_IMPACT.md). This adds primary-literature novelty verification, theoretical contribution, publication-ready robustness, policy decision relevance, and verified evidence of dissemination. A paper does not pass because it has a high word count or many models.
+
 ## Allowed evidence classes
 
 | Class | Examples | What can be claimed |

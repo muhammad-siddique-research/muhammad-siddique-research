@@ -3,6 +3,18 @@
 **Stage:** PROTOCOL — no empirical estimates produced.  
 **Domain:** Computational Economics · Economics of AI · Labor Economics
 
+## 2026 novelty collision — required redesign before estimation
+
+**Publication status:** The generic study of U.S. business AI diffusion is already well covered by contemporary federal researchers, including:
+
+- Census Bureau, *AI Exposure and Adoption Among U.S. Firms* (September 2026): https://www.census.gov/library/working-papers/2026/adrm/CES-WP-26-61.html
+- Census Bureau, *The Microstructure of AI Diffusion* (2026): https://www.census.gov/library/working-papers/2026/adrm/CES-WP-26-25.html
+- Federal Reserve, *Monitoring AI Adoption in the U.S. Economy* (2026): https://www.federalreserve.gov/econres/notes/feds-notes/monitoring-ai-adoption-in-the-u-s-economy-20260403.html
+
+Therefore **do not claim that a new sector-adoption comparison is novel**. A flagship journal submission must first demonstrate a genuinely distinct estimand, source contribution, outcome, population, or valid research design. Public aggregated BTOS/BLS co-movement **cannot establish AI's causal employment effects**.
+
+Apply [journal publication and U.S. impact gates](../research-standards/JOURNAL_PUBLICATION_AND_NATIONAL_IMPACT.md). The current protocol is a **feasibility/measurement study** until it passes these gates.
+
 ## Research question
 
 How is reported U.S. business AI adoption distributed across industries and business functions, how do definitions and survey periods affect apparent diffusion, and what employment or wage patterns **co-occur** in comparable published labor statistics?
