@@ -75,7 +75,7 @@ The projects below represent distinct research directions. **Working studies, hi
 
 My PhD in Economics, EdD specialization in Computer Science (**expected December 2026**), and university teaching experience support three complementary professional directions: **Postdoctoral Researcher / Research Scientist** in Computational Economics, Educational Data Science, and AI in Education; **Institutional Researcher / Educational Data Scientist** focusing on student success, Learning Analytics, assessment, and institutional effectiveness; and **University Lecturer / Instructor** combining interdisciplinary teaching with applied research.
 
-**Teaching interests** include **AI in Education, Economics of AI, Educational Data Science, Learning Analytics, and Applied AI/ML**, alongside relevant courses in Economics, Econometrics, and Quantitative Methods. I welcome research and teaching collaborations that examine the educational and economic implications of AI and translate rigorous evidence into improved learning and institutional decision-making.
+**Teaching interests** include **Economics of AI, AI in Education, Educational Data Science, Learning Analytics, and Applied AI/ML**, alongside relevant courses in Economics, Econometrics, and Quantitative Methods. I welcome research and teaching collaborations that examine the educational and economic implications of AI and translate rigorous evidence into improved learning and institutional decision-making.
 
 <div align="center">
 
