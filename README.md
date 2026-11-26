@@ -6,7 +6,7 @@
 
 **Computational Economist · Educational Data Science & AI/ML Researcher · Interdisciplinary Quantitative Researcher**
 
-Advanced Econometrics · Learning Analytics · Causal Inference · Explainable AI
+AI in Education · Economics of AI · Learning Analytics · Causal Inference
 
 [**Google Scholar**](https://scholar.google.com/citations?user=0Dthp5IAAAAJ) · [**LinkedIn**](https://www.linkedin.com/in/muhammad-siddique-phd-72954785/) · [**Research Projects**](#selected-research) · [**Methods & Tools**](#analytical-expertise)
 
@@ -16,7 +16,7 @@ Advanced Econometrics · Learning Analytics · Causal Inference · Explainable A
 
 ## Research identity
 
-I conduct **interdisciplinary quantitative research** at the intersection of **Computational Economics, Educational Data Science, and Responsible AI/ML**. Integrating economic theory with **Advanced Econometrics, Statistical Learning, and Explainable AI**, I investigate human capital development, student outcomes, and institutional performance. My work connects substantive research questions with rigorous measurement, reproducible computation, robust inference, and transparent predictive evaluation—producing evidence relevant to academic scholarship, educational improvement, and public policy.
+I conduct **interdisciplinary quantitative research** at the intersection of **Computational Economics, Educational Data Science, and Responsible AI/ML**. Integrating economic theory with **Advanced Econometrics, Statistical Learning, and Explainable AI**, I investigate human capital development, student outcomes, and institutional performance. My work connects substantive research questions with rigorous measurement, reproducible computation, robust inference, and transparent predictive evaluation—producing evidence relevant to academic scholarship, educational improvement, and public policy. I am particularly interested in **AI in Education and the Economics of AI**, including their implications for learning, human capital, and institutional decision-making.
 
 My expertise spans **Econometric Modeling, Quantitative Research Design, Machine Learning, and Causal Inference methodology**, with focused applications in **Learning Analytics, Educational Assessment, Student Success, and Institutional Research and Effectiveness**. I develop end-to-end analytical workflows encompassing data validation, model specification, sensitivity analysis, out-of-sample testing, and interpretable reporting. Across research settings, I evaluate bias, confounding, uncertainty, and generalizability, maintaining a clear distinction between **statistical association, prediction, and causal evidence**.
 
@@ -71,9 +71,11 @@ The projects below represent distinct research directions. **Working studies, hi
 
 **Theory → Measurement → Identification → Estimation → Validation → Interpretation.** Econometric significance, predictive accuracy, and causal identification answer different questions. I benchmark alternative specifications, document uncertainty and data limitations, and distinguish **published scholarship, working research, genuine historical datasets, and synthetic computational experiments**.
 
-## Academic research & professional engagement
+## Academic research, institutional analytics & university teaching
 
-My research and university teaching background is particularly relevant to three complementary professional pathways: **Postdoctoral Researcher / Research Scientist** in Computational Economics, Educational Data Science, or quantitative social science; **Institutional Researcher** focused on assessment, institutional effectiveness, and student outcomes; and **University Lecturer** in Economics, Econometrics, or Quantitative Methods. I welcome collaborations that connect methodological rigor, interdisciplinary research, and evidence-informed educational decision-making.
+My PhD in Economics, EdD specialization in Computer Science (**expected December 2026**), and university teaching experience support three complementary professional directions: **Postdoctoral Researcher / Research Scientist** in Computational Economics, Educational Data Science, and AI in Education; **Institutional Researcher / Educational Data Scientist** focusing on student success, Learning Analytics, assessment, and institutional effectiveness; and **University Lecturer / Instructor** combining interdisciplinary teaching with applied research.
+
+**Teaching interests** include **AI in Education, Economics of AI, Educational Data Science, Learning Analytics, and Applied AI/ML**, alongside relevant courses in Economics, Econometrics, and Quantitative Methods. I welcome research and teaching collaborations that examine the educational and economic implications of AI and translate rigorous evidence into improved learning and institutional decision-making.
 
 <div align="center">
 
