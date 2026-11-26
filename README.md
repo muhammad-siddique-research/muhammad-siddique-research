@@ -38,6 +38,8 @@ My expertise spans **Econometric Modeling, Quantitative Research Design, Machine
 | [**U.S. Healthcare Access, Need & Geographic Variation**](us-studies/03_health_access.md) | [CMS Medicare geographic variation](https://data.cms.gov/tools/geographic-variation-in-standardized-medicare-spending-state) + [CDC PLACES](https://www.cdc.gov/places/) | Research protocol + [reproducible CDC data-audit starter](us-studies/cdc_places_pilot/README.md) |
 | [**Institutional Effectiveness & Student Outcomes**](us-studies/04_institutional_research.md) | [NCES IPEDS](https://nces.ed.gov/ipeds/) + [College Scorecard](https://collegescorecard.ed.gov/data/) | Research protocol; not an AI-treatment evaluation |
 
+**First executed U.S. aggregate evidence:** [**Manuscript 01 — Postsecondary Retention & Institutional Composition (2021–2024)**](us-studies/05_us_postsecondary_retention_empirical_note.md). The study uses authentic published NCES national counts and reports validated descriptive decompositions; it is **not** an institution-level causal or AI/ML study and is **not yet journal-ready**.
+
 [**U.S. research agenda & priorities**](US_RESEARCH_PROGRAM.md) · [**NCES U.S. AI-in-schools benchmarks**](us-studies/NCES_SPP_SOURCE_BENCHMARKS.md) · [**Evidence standards**](research-standards/EVIDENCE_POLICY.md) · [**CDC real-data ingestion starter**](us-studies/cdc_places_pilot/README.md)
 
 ---
