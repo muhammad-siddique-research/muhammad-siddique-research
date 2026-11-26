@@ -24,9 +24,24 @@ My expertise spans **Econometric Modeling, Quantitative Research Design, Machine
 
 > **Research orientation:** Build models that are useful, assumptions that are inspectable, and conclusions that remain defensible under scrutiny.
 
+## U.S. research program | 2026–2027
+
+**Forward research priority:** emerging U.S. challenges in **AI in Education, the Economics of AI, Institutional Research, and Healthcare Access**. New empirical papers will use **authentic, citable U.S. public-sector datasets**, documented source vintages, transparent reproducibility checks, and explicit inferential limits. *The studies below are protocols, not completed analyses or research findings.*
+
+| U.S. research track | Official data foundation | Current stage |
+|:---|:---|:---|
+| [**AI in U.S. Schools: Adoption, Governance & Equity**](us-studies/01_ai_in_education.md) | [NCES School Pulse Panel](https://nces.ed.gov/surveys/spp/results.asp) — reported school AI policies, training and perceptions | Research protocol; source data not yet independently extracted |
+| [**Economics of AI: Business Adoption & Labor Adjustment**](us-studies/02_economics_of_ai.md) | [Census Business Trends and Outlook Survey](https://www.census.gov/hfp/btos/data), with optional official BLS series | Research protocol; no measured AI employment effect claimed |
+| [**U.S. Healthcare Access, Need & Geographic Variation**](us-studies/03_health_access.md) | [CMS Medicare geographic variation](https://data.cms.gov/tools/geographic-variation-in-standardized-medicare-spending-state) + [CDC PLACES](https://www.cdc.gov/places/) | Research protocol + [reproducible CDC data-audit starter](us-studies/cdc_places_pilot/README.md) |
+| [**Institutional Effectiveness & Student Outcomes**](us-studies/04_institutional_research.md) | [NCES IPEDS](https://nces.ed.gov/ipeds/) + [College Scorecard](https://collegescorecard.ed.gov/data/) | Research protocol; not an AI-treatment evaluation |
+
+[**U.S. research agenda & priorities**](US_RESEARCH_PROGRAM.md) · [**Data provenance & evidence standards**](research-standards/EVIDENCE_POLICY.md) · [**CDC real-data ingestion starter**](us-studies/cdc_places_pilot/README.md)
+
+---
+
 ## Selected research
 
-The projects below represent distinct research directions. **Working studies, historical observational analyses, original survey findings, and synthetic experiments are identified rather than presented as equivalent forms of evidence.**
+The projects below document established and ongoing work across U.S. and international settings. **Historical observational analyses, original survey findings, working studies, and synthetic experiments are identified separately.** New U.S.-focused studies appear in the research program above and are **not** represented as completed results.
 
 ### International Economics & Trade Intelligence
 

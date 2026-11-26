@@ -1,0 +1,21 @@
+name: US research provenance starter checks
+on:
+  push:
+    paths:
+      - "us-studies/cdc_places_pilot/**"
+      - ".github/workflows/us-research-checks.yml"
+  pull_request:
+    paths:
+      - "us-studies/cdc_places_pilot/**"
+      - ".github/workflows/us-research-checks.yml"
+
+jobs:
+  offline-fixture-tests:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Test parser without live data or fabricated results
+        run: python -m unittest discover -s us-studies/cdc_places_pilot -p 'test_*.py' -v
